@@ -92,12 +92,12 @@ i { font-size: 16px; }
 .avatar:active .avatar_pic em { filter: alpha(opacity=70); -moz-opacity: 0.7; opacity: 0.7; }
 .avatar b { width: 36px; height: 20px; line-height: 20px; background-color: #CCC; color: #FFF; position: absolute; top: 50%; right: -18px; margin-top: -10px; text-align: center; font-weight: normal; }
 .base { padding: 27px 0 0; position: relative; }
-.base p { color: #AAA; line-height: 20px; }
-.base p.desc { color: #CCC; }
-.base h2 { font-size: 32px; color: #999; font-weight: normal; padding: 5px 0; }
+.base p { color: #5E5B5B; line-height: 20px; }
+.base p.desc { color: #5E5B5B; }
+.base h2 { font-size: 32px; color: #453C3C; font-weight: normal; padding: 5px 0; }
 .base span p { padding: 0 0 10px; }
 .base span i { font-size: 16px; color: #999; margin-right: 5px; float: left; }
-.tel_me { color: #AAA; }
+.tel_me { color: #5E5B5B; }
 .tel_me:hover { color: #999; border-bottom: 2px #999 solid; }
 .information { width: 100%; }
 .info_content p { line-height: 22px; margin-bottom: 20px; overflow: hidden; }
